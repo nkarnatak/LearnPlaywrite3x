@@ -1,0 +1,3 @@
+Initial commit: Hello World JavaScript and IQ notes
+
+Co-authored-by: CommandCodeBot <noreply@commandcode.ai>
